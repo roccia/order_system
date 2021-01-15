@@ -1,0 +1,3 @@
+termcolor
+pytest
+pytest-asyncio

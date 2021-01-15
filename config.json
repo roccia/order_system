@@ -1,0 +1,6 @@
+{
+  "file_path": "orders.json",
+  "processing_num": 2,
+  "delay_rate": 1,
+  "deliver_time_range": [2,6]
+}

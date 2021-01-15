@@ -1,0 +1,11 @@
+.venv/
+/venv
+.idea/dmp.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+*.pyc
+.idea/**
+.idea
+.idea/
+__pycache__
